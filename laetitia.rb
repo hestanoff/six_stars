@@ -1,1 +1,1 @@
-puts Laëtitia
+puts "Laëtitia"
